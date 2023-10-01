@@ -12,7 +12,6 @@ The super-resolution technique employed in this project utilizes deep learning t
 ## Features
 
 - Super-resolve low-resolution images to higher resolutions.
-- Easy-to-use command-line interface for image upscaling.
 - Customizable scaling factor for image enhancement.
 
 ## Installation
